@@ -18,7 +18,7 @@ The directory `risk_estimation` contains the data, plots, assumptions, and R cod
 
 The directory `auspice` contains the json that was produced using 'augor' from the nextstrain pipeline. These results can be visualized using `auspice`, accessing the link below:
 
-* [Genomic epidemiology of SARS-CoV-2 in Connecticut, USA](https://nextstrain.org/community/grubaughlab/CT_SARS-CoV-2)
+* [Genomic epidemiology of SARS-CoV-2 in Connecticut, USA](https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2)
 
 ---
 
