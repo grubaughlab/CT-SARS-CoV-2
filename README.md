@@ -1,4 +1,4 @@
-# CT_SARS-CoV-2
+# CT-SARS-CoV-2
 This repository contains the data, results, and code for the manuscript Fauver, Petrone, and Hodcroft et al., 2020. 
 
 ## Supplemental data
