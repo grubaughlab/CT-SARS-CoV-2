@@ -13,11 +13,11 @@ We added our 27 SARS-COV-2 genomes to 321 available from around the world to und
 
 ![all genomes](all_genomes.png)
 
-By focusing on just our genomes (CT = light blue; NY = blue-green), we can see that the COVID-19 outbreak in Connecticut was sparked by multiple introductions.
+By focusing on just our genomes (CT = light blue; NY = blue-green), we can see that the COVID-19 outbreak in Connecticut was sparked by multiple introductions (see picture below).
 
 ![Yale genomes](all_Yale.png)
 
-10 of our 27 genomes cluster with those from elsewhere in the United States, primarily with those from Washington state (red). This demonstrates that [coast-to-coast SARS-CoV-2 transmission](https://www.medrxiv.org/content/10.1101/2020.03.25.20043828v1) has already occurred in the United States.
+10 of our 27 genomes cluster with those from elsewhere in the United States, primarily with those from Washington state (red, below). This demonstrates that [coast-to-coast SARS-CoV-2 transmission](https://www.medrxiv.org/content/10.1101/2020.03.25.20043828v1) has already occurred in the United States.
 
 ![Cluster 1](Yale_cluster1.png)
 
@@ -25,7 +25,7 @@ By focusing on just our genomes (CT = light blue; NY = blue-green), we can see t
 
 ![Cluster 2](Yale_cluster2.png)
 
-4 of our genomes cluster together in what may have been an introduction from Europe in early March followed by sustained  local or regional transmission.
+4 of our genomes cluster together in what may have been an introduction from Europe in early March followed by sustained  local or regional transmission (see below).
 
 ![Cluster 3](Yale_cluster3.png)
 
@@ -35,7 +35,7 @@ The remaining genomes suggest multiple, separate introductions of viruses from E
 
 The directory `auspice` contains a json that was produced using the 'augur' from the nextstrain pipeline. This analysis was carried out by [Anderson Brito](https://twitter.com/AndersonBrito_). These results can be visualized using auspice, accessing the link below:
 
-* [Genomic epidemiology of SARS-CoV-2 in Northeastern United States (Release 002)](https://nextstrain.org/community/CT-SARS-CoV-2/update1)
+* [Genomic epidemiology of SARS-CoV-2 in Northeastern United States (Release 002)](https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/update1)
 
 ---
 
