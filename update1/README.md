@@ -11,11 +11,11 @@ The directories `consensus_genomes` and `metadata` in the [main directory](https
 
 We added our 27 SARS-COV-2 genomes to 321 available from around the world to understand the timing and origins of the COVID-19 outbreak in Connecticut.
 
-![all genomes](all_Yale.png)
+![all genomes](all_genomes.png)
 
 By focusing on just our genomes (CT = light blue; NY = blue-green), we can see that the COVID-19 outbreak in Connecticut was sparked by multiple introductions.
 
-![Yale genomes](all_genomes.png)
+![Yale genomes](all_Yale.png)
 
 10 of our 27 genomes cluster with those from elsewhere in the United States, primarily with those from Washington state (red). This demonstrates that [coast-to-coast SARS-CoV-2 transmission](https://www.medrxiv.org/content/10.1101/2020.03.25.20043828v1) has already occurred in the United States.
 
