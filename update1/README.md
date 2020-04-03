@@ -35,7 +35,7 @@ The remaining genomes suggest multiple, separate introductions of viruses from E
 
 The directory `auspice` contains a json that was produced using the 'augur' from the nextstrain pipeline. This analysis was carried out by [Anderson Brito](https://twitter.com/AndersonBrito_). These results can be visualized using auspice, accessing the link below:
 
-* [Genomic epidemiology of SARS-CoV-2 in Northeastern United States (Release 002)](https://nextstrain.org/community/andersonbrito/ns-temp/update1)
+* [Genomic epidemiology of SARS-CoV-2 in Northeastern United States (Release 002)](https://nextstrain.org/community/CT-SARS-CoV-2/update1)
 
 ---
 
