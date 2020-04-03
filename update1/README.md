@@ -11,28 +11,23 @@ The directories `consensus_genomes` and `metadata` in the [main directory](https
 
 We added our 27 SARS-COV-2 genomes to 321 available from around the world to understand the timing and origins of the COVID-19 outbreak in Connecticut.
 
-![all genomes](https://github.com/grubaughlab/CT-SARS-CoV-2/update1/all_Yale.png)
-Format: ![Alt Text](url)
+![all genomes](all_Yale.png)
 
 By focusing on just our genomes (CT = light blue; NY = blue-green), we can see that the COVID-19 outbreak in Connecticut was sparked by multiple introductions.
 
-![Yale genomes](https://github.com/grubaughlab/CT-SARS-CoV-2/update1/all_genomes.png)
-Format: ![Alt Text](url)
+![Yale genomes](all_genomes.png)
 
 10 of our 27 genomes cluster with those from elsewhere in the United States, primarily with those from Washington state (red). This demonstrates that [coast-to-coast SARS-CoV-2 transmission](https://www.medrxiv.org/content/10.1101/2020.03.25.20043828v1) has already occurred in the United States.
 
-![Cluster 1](https://github.com/grubaughlab/CT-SARS-CoV-2/update1/Yale_cluster1.png)
-Format: ![Alt Text](url)
+![Cluster 1](Yale_cluster1.png)
 
 7 of our genomes cluster with those sequenced from New York (red) and Europe (faded), indicating that the nearby explosive outbreak in New York is starting to spill over into Connecticut. We did not see this connection with our first 9 genomes, and it is something to watch closely
 
-![Cluster 2](https://github.com/grubaughlab/CT-SARS-CoV-2/update1/Yale_cluster2.png)
-Format: ![Alt Text](url)
+![Cluster 2](Yale_cluster2.png)
 
 4 of our genomes cluster together in what may have been an introduction from Europe in early March followed by sustained  local or regional transmission.
 
-![Cluster 3](https://github.com/grubaughlab/CT-SARS-CoV-2/update1/Yale_cluster3.png)
-Format: ![Alt Text](url)
+![Cluster 3](Yale_cluster3.png)
 
 The remaining genomes suggest multiple, separate introductions of viruses from European countries such as Belgium and the United Kingdom.
 
