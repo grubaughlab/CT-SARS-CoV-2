@@ -21,12 +21,12 @@ The directory `auspice` contains the json that was produced using augor from the
 
 The directory `update1` contains the data, interpretation, and visualization of 18 of our new SARS-CoV-2 genomes (out of 27 total).
 
-## Paper1: Coast-to-coast spread of SARS-CoV-2 in the United States revealed by genomic epidemiology
+## Paper1: Coast-to-coast spread of SARS-CoV-2
 
 The directory `paper1` contains the data, results, and code for our recent manuscript submitted to *medRxiv*. The paper can be accessed using the following link: 
 
-[Fauver, Petrone, Hodcroft, et al., 2020.](https://www.medrxiv.org/content/10.1101/2020.03.25.20043828v1)
+[Fauver, Petrone, Hodcroft, et al., 2020. Coast-to-coast spread of SARS-CoV-2 in the United States revealed by genomic epidemiology](https://www.medrxiv.org/content/10.1101/2020.03.25.20043828v1)
 
-
+---
 
 **Grubaugh Lab** | Yale School of Public Health (YSPH) | [https://grubaughlab.com/](https://grubaughlab.com/)
