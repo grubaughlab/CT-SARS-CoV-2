@@ -11,13 +11,15 @@ The directory 'metadata' contains all of the associated information for each seq
 
 ### Nextstrain
 
-The directory `auspice` contains the json that was produced using augor from the nextstrain pipeline. These results can be visualized using auspice, accessing the link below to select the desired available dataset:
+The directory `auspice` contains the json that was produced using augor from the nextstrain pipeline. These results can be visualized using auspice, accessing the link below:
 
-* [Nextstrain visualization of SARS-CoV-2 genomes sequenced at Yale](https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/)
+* [Nextstrain visualization of SARS-CoV-2 genomes sequenced at Yale](https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/update1)
+
+---
 
 ## Update1: 2020.04.03 
 
-The directory `update1` contains the data, interpretation, and visualization of 18 new 
+The directory `update1` contains the data, interpretation, and visualization of 18 of our new SARS-CoV-2 genomes (out of 27 total).
 
 ## Paper1: Coast-to-coast spread of SARS-CoV-2 in the United States revealed by genomic epidemiology
 
@@ -25,6 +27,6 @@ The directory `paper1` contains the data, results, and code for our recent manus
 
 [Fauver, Petrone, Hodcroft, et al., 2020.](https://www.medrxiv.org/content/10.1101/2020.03.25.20043828v1)
 
----
+
 
 **Grubaugh Lab** | Yale School of Public Health (YSPH) | [https://grubaughlab.com/](https://grubaughlab.com/)
