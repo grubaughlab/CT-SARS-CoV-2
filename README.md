@@ -13,7 +13,7 @@ The directory 'metadata' contains all of the associated information for each seq
 
 The directory `auspice` contains the json that was produced using augor from the nextstrain pipeline. These results can be visualized using auspice, accessing the link below to select the desired available dataset:
 
-* [Nextstrain visualization of SARS-CoV-2 genomes sequenced at Yale](https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/)
+* [Nextstrain visualization of SARS-CoV-2 genomes sequenced at Yale](https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/update1)
 
 ## Update1: 2020.04.03 
 
