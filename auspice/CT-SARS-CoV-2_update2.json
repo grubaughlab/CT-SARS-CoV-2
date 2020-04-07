@@ -702,7 +702,7 @@
       },
       {
         "key": "release",
-        "title": "Release",
+        "title": "Update",
         "type": "categorical"
       }
     ],
@@ -5248,7 +5248,7 @@
                                     "value": "Northern America"
                                   },
                                   "release": {
-                                    "value": "Update01"
+                                    "value": "Initial"
                                   }
                                 }
                               }
@@ -6255,7 +6255,7 @@
                                         "value": "Northern America"
                                       },
                                       "release": {
-                                        "value": "Update01"
+                                        "value": "Initial"
                                       }
                                     }
                                   },
@@ -6312,7 +6312,7 @@
                                         "value": "Northern America"
                                       },
                                       "release": {
-                                        "value": "Update01"
+                                        "value": "Initial"
                                       }
                                     }
                                   }
@@ -6977,7 +6977,7 @@
                                                     "value": "Northern America"
                                                   },
                                                   "release": {
-                                                    "value": "Update01"
+                                                    "value": "Initial"
                                                   }
                                                 }
                                               },
@@ -7641,7 +7641,7 @@
                                                                 "value": "Northern America"
                                                               },
                                                               "release": {
-                                                                "value": "Update02"
+                                                                "value": "Update01"
                                                               }
                                                             }
                                                           }
@@ -7863,7 +7863,7 @@
                                                                         "value": "Northern America"
                                                                       },
                                                                       "release": {
-                                                                        "value": "Update02"
+                                                                        "value": "Update01"
                                                                       }
                                                                     }
                                                                   },
@@ -7910,7 +7910,7 @@
                                                                         "value": "Northern America"
                                                                       },
                                                                       "release": {
-                                                                        "value": "Update01"
+                                                                        "value": "Initial"
                                                                       }
                                                                     }
                                                                   }
@@ -8037,7 +8037,7 @@
                                                                         "value": "Northern America"
                                                                       },
                                                                       "release": {
-                                                                        "value": "Update01"
+                                                                        "value": "Initial"
                                                                       }
                                                                     }
                                                                   },
@@ -8302,7 +8302,7 @@
                                                                             "value": "Northern America"
                                                                           },
                                                                           "release": {
-                                                                            "value": "Update02"
+                                                                            "value": "Update01"
                                                                           }
                                                                         }
                                                                       },
@@ -8349,7 +8349,7 @@
                                                                             "value": "Northern America"
                                                                           },
                                                                           "release": {
-                                                                            "value": "Update01"
+                                                                            "value": "Initial"
                                                                           }
                                                                         }
                                                                       }
@@ -15047,7 +15047,7 @@
                                                             "value": "Northern America"
                                                           },
                                                           "release": {
-                                                            "value": "Update02"
+                                                            "value": "Update01"
                                                           }
                                                         }
                                                       },
@@ -15854,7 +15854,7 @@
                             "value": "Northern America"
                           },
                           "release": {
-                            "value": "Update01"
+                            "value": "Initial"
                           }
                         }
                       },
@@ -16791,7 +16791,7 @@
                                         "value": "Northern America"
                                       },
                                       "release": {
-                                        "value": "Update02"
+                                        "value": "Update01"
                                       }
                                     }
                                   },
@@ -19752,7 +19752,7 @@
                                                                 "value": "Northern America"
                                                               },
                                                               "release": {
-                                                                "value": "Update02"
+                                                                "value": "Update01"
                                                               }
                                                             }
                                                           },
@@ -20584,7 +20584,7 @@
                                                                         "value": "Northern America"
                                                                       },
                                                                       "release": {
-                                                                        "value": "Update02"
+                                                                        "value": "Update01"
                                                                       }
                                                                     }
                                                                   },
@@ -20631,7 +20631,7 @@
                                                                         "value": "Northern America"
                                                                       },
                                                                       "release": {
-                                                                        "value": "Update02"
+                                                                        "value": "Update01"
                                                                       }
                                                                     }
                                                                   }
@@ -23064,7 +23064,7 @@
                                                                                 "value": "Northern America"
                                                                               },
                                                                               "release": {
-                                                                                "value": "Update02"
+                                                                                "value": "Update01"
                                                                               }
                                                                             }
                                                                           }
@@ -23150,7 +23150,7 @@
                                                                                 "value": "Northern America"
                                                                               },
                                                                               "release": {
-                                                                                "value": "Update02"
+                                                                                "value": "Update01"
                                                                               }
                                                                             }
                                                                           },
@@ -23199,7 +23199,7 @@
                                                                                     "value": "Northern America"
                                                                                   },
                                                                                   "release": {
-                                                                                    "value": "Update02"
+                                                                                    "value": "Update01"
                                                                                   }
                                                                                 }
                                                                               },
@@ -23246,7 +23246,7 @@
                                                                                     "value": "Northern America"
                                                                                   },
                                                                                   "release": {
-                                                                                    "value": "Update01"
+                                                                                    "value": "Initial"
                                                                                   }
                                                                                 }
                                                                               }
@@ -26030,7 +26030,7 @@
                                                         "value": "Northern America"
                                                       },
                                                       "release": {
-                                                        "value": "Update02"
+                                                        "value": "Update01"
                                                       }
                                                     }
                                                   },
@@ -27867,7 +27867,7 @@
                                                                                 "value": "Northern America"
                                                                               },
                                                                               "release": {
-                                                                                "value": "Update02"
+                                                                                "value": "Update01"
                                                                               }
                                                                             }
                                                                           },
@@ -28206,7 +28206,7 @@
                                                                         "value": "Northern America"
                                                                       },
                                                                       "release": {
-                                                                        "value": "Update02"
+                                                                        "value": "Update01"
                                                                       }
                                                                     }
                                                                   },
@@ -28268,7 +28268,7 @@
                                                                             "value": "Northern America"
                                                                           },
                                                                           "release": {
-                                                                            "value": "Update02"
+                                                                            "value": "Update01"
                                                                           }
                                                                         }
                                                                       },
@@ -28316,7 +28316,7 @@
                                                                             "value": "Northern America"
                                                                           },
                                                                           "release": {
-                                                                            "value": "Update02"
+                                                                            "value": "Update01"
                                                                           }
                                                                         }
                                                                       }
@@ -28456,7 +28456,7 @@
                                                                             "value": "Northern America"
                                                                           },
                                                                           "release": {
-                                                                            "value": "Update02"
+                                                                            "value": "Update01"
                                                                           }
                                                                         }
                                                                       },
@@ -28855,7 +28855,7 @@
                                                                                             "value": "Northern America"
                                                                                           },
                                                                                           "release": {
-                                                                                            "value": "Update02"
+                                                                                            "value": "Update01"
                                                                                           }
                                                                                         }
                                                                                       },
