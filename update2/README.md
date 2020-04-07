@@ -1,4 +1,4 @@
-# Update 2: 2020.04.07 - Yale SARS-CoV-2 Genome Surveillance Initiative
+# Update 2 | 2020.04.07 - Yale SARS-CoV-2 Genome Surveillance Initiative
 This github repository shows preliminary results related to 13 new SARS-CoV-2 genomes (from CT[10] and NY[3]) from clinical samples collected between March 18-19, 2020. These samples were sequenced by [Joseph Fauver](https://twitter.com/JosephFauver) and and [Tara Alpert](https://twitter.com/tdalpert), using a MinION platform. Phylogenetic analysis and results interpretation were performed by [Anderson Brito](https://twitter.com/AndersonBrito_), using a nextstrain pipeline.
 
 ## Data
@@ -12,7 +12,7 @@ We added the new 13 SARS-COV-2 genomes with other 27 genomes we presented in the
 
 ![big picture](Picture1.png)
 
-# 
+# A growing group of viruses in Connecticut and New York State
 Nine of the newly sequenced genomes in this update are found within a growing cluster of viruses sampled in NY and CT between March 12th and 25th, 2020. They add extra evidence for sustained local or regional transmission of the virus causing COVID-19 within and between both states.
 ![NY-CT clade](Picture2.png)
 
