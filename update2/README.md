@@ -16,15 +16,15 @@ Nine of the newly sequenced genomes in this update are found within a growing cl
 ![NY-CT clade](Picture2.png)
 
 ### 
-The newly sequenced genomes Yale-020 belongs to a lineage of viruses that seems to be circulating locally in Connecticut over the past weeks. These genomes were collected from residents of the New Haven County and surrounding areas. The data for the specific lineage is still limited, and as we sequence more genomes, we may be able to estimate the extent of the viral spread from this region in CT.
+The newly sequenced virus Yale-020 is genetically related viruses that may be circulating locally in Connecticut over the past weeks. These samples, all sequenced by our lab, were collected from residents of the New Haven County and surrounding areas. The data for the specific lineage is still limited, and as we sequence more genomes, we may be able to estimate the extent of the viral spread from this region in CT.
 ![small CT clade](Picture3.png)
 
 
 In another branch of the phylogenetic tree one can find four genomes sequenced by the Yale initiative (Yale-013, 047, 050), one of them sequenced in the last week (Yale-024). These genomes are grouped within a cluster of viruses likely originated from Western Europe, suggesting at least one introduction of this lineage in the United States at some point in February.
-![European clade](Picture3.png)
+![European clade](Picture4.png)
 
-Finally, one of the genomes (Yale-012) groups together with other 12 genomes sequenced by our team, which were found to group in a cluster most likely introduced from Washington state (see Update 1). These CT samples were collected from residents of many distinct locations in CT, such as the sourthern CT towns/city of New Haven, West Haven, Greenwich, Woodbridge, and Stratford, as well as Bethlehem, Litchfield, and Berlin, in the northern part.
-![WA clade](Picture4.png)
+Finally, one of the genomes (Yale-012) groups together with other 12 sequenced by our team, which were found to group with genomes of viruses most likely introduced from Washington state (see Update 1). These CT samples were collected from residents of many distinct locations in CT, such as the sourthern CT towns/city of New Haven, West Haven, Greenwich, Woodbridge, and Stratford, as well as Bethlehem, Litchfield, and Berlin, in the northern part.
+![WA clade](Picture5.png)
 
 Altogether, the patterns we observe with the genomic data gathered so far highlights that the virus causing COVID-19 is widely spread in Connecticut. Staying home, specially the elderly and people with underlying health conditions, is advisable to avoid exposure to the virus SARS-CoV-2.
 
