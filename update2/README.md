@@ -11,12 +11,12 @@ The directories `consensus_genomes` and `metadata` in the [main page](https://gi
 We added the new 13 SARS-COV-2 genomes with other 27 genomes we presented in the previous update, and collected other 267 genomes available on GISAID, from around the world, to uncover recent patterns of viral spread within and from Northeastern USA in the past weeks.
 ![big picture](Picture1.png)
 
-### A growing cluster of viruses in Connecticut and New York State
+### A growing cluster of viruses between Connecticut and New York State
 Nine of the newly sequenced genomes in this update are found within a growing cluster of viruses sampled in NY and CT between March 12th and 25th, 2020. They add extra evidence for sustained local or regional transmission of the virus causing COVID-19 within and between both states.
 ![NY-CT clade](Picture2.png)
 
 ### 
-The newly sequenced virus Yale-020 is genetically related viruses that may be circulating locally in Connecticut over the past weeks. These samples, all sequenced by our lab, were collected from residents of the New Haven County and surrounding areas. The data for the specific lineage is still limited, and as we sequence more genomes, we may be able to estimate the extent of the viral spread from this region in CT.
+The newly sequenced virus Yale-020 is genetically related to viruses that may be circulating locally in Connecticut over the past weeks. These samples, all sequenced by our lab, were collected from patients residents of the New Haven County and surrounding areas. The data for the specific lineage is still limited, and as we sequence more genomes, we may be able to estimate the extent of the viral spread from this region in CT.
 ![small CT clade](Picture3.png)
 
 
