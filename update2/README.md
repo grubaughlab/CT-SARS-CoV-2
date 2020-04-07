@@ -8,10 +8,11 @@ The directories `consensus_genomes` and `metadata` in the [main page](https://gi
 
 *WARNING: These results should be considered as preliminary data*
 
-We added the new 13 SARS-COV-2 genomes with other 27 genomes we presented in the previous update, and collected other XXX genomes available on GISAID, from around the world, to uncover recent patterns of viral spread within and from Northeastern USA in the past weeks.
+We added the new 13 SARS-COV-2 genomes with other 27 genomes we presented in the previous update, and collected other 267 genomes available on GISAID, from around the world, to uncover recent patterns of viral spread within and from Northeastern USA in the past weeks.
 
 ![big picture](Picture1.png)
 
+# 
 Nine of the newly sequenced genomes in this update are found within a growing cluster of viruses sampled in NY and CT between March 12th and 25th, 2020. They add extra evidence for sustained local or regional transmission of the virus causing COVID-19 within and between both states.
 ![NY-CT clade](Picture2.png)
 
