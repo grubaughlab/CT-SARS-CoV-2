@@ -14,7 +14,7 @@ We added the new 13 SARS-COV-2 genomes with other 27 genomes we presented in the
 A total of nine of the newly sequenced genomes in this update are found within a growing cluster of viruses sampled in NY and CT between March 12th and 25th, 2020. This pattern reinforces the findings in our previous Update (#1), which evidenced sustained local or regional transmission of the virus causing COVID-19 within and between both states.
 
 
-
+In other branch of the tree are four genomes sequenced by the Yale initiative, one of them sequenced in the last week as part of this report. These genomes are group within a cluster of viruses wiith most likely origin in Western Europe.
 
 
 ---
