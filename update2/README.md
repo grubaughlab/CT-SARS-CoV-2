@@ -11,6 +11,12 @@ The directories `consensus_genomes` and `metadata` in the main page in this repo
 ## Nextstrain
 We added the new 13 SARS-COV-2 genomes with other 27 genomes we presented in the previous update, and collected other XXX genomes available on GISAID, from around the world, to uncover recent patterns of viral spread within and from Northeastern USA in the past weeks.
 
+A total of nine of the newly sequenced genomes in this update are found within a growing cluster of viruses sampled in NY and CT between March 12th and 25th, 2020. This pattern reinforces the findings in our previous Update (#1), which evidenced sustained local or regional transmission of the virus causing COVID-19 within and between both states.
+
+
+
+
+
 ---
 
 **Grubaugh Lab** | Yale School of Public Health (YSPH) | [https://grubaughlab.com/](https://grubaughlab.com/)
