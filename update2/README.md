@@ -16,7 +16,7 @@ Nine of the newly sequenced genomes in this update are found within a growing cl
 ![NY-CT clade](Picture2.png)
 
 ### 
-The newly sequenced virus Yale-020 is genetically related to viruses that may be circulating locally in Connecticut over the past weeks. These samples, all sequenced by our lab, were collected from patients residents of the New Haven County and surrounding areas. The data for the specific lineage is still limited, and as we sequence more genomes, we may be able to estimate the extent of the viral spread from this region in CT.
+The newly sequenced virus Yale-020 is genetically related to viruses that may be circulating locally in Connecticut over the past weeks. These samples, all sequenced by our lab, were collected from patients residents of the New Haven County and surrounding areas. Given the current data, and the genetic similarity of these genomes with those found in viruses from Europe, that continent can be the origin of this specific viral lineage, probably circulating in Clinton and Beacon Falls (see map).
 ![small CT clade](Picture3.png)
 
 
