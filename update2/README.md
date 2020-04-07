@@ -15,8 +15,8 @@ We added the new 13 SARS-COV-2 genomes with other 27 genomes we presented in the
 Nine of the newly sequenced genomes in this update are found within a growing cluster of viruses sampled in NY and CT between March 12th and 25th, 2020. They add extra evidence for sustained local or regional transmission of the virus causing COVID-19 within and between both states.
 ![NY-CT clade](Picture2.png)
 
-### 
-The newly sequenced virus Yale-020 is genetically related to viruses that may be circulating locally in Connecticut over the past weeks. These samples, all sequenced by our lab, were collected from patients residents of the New Haven County and surrounding areas. Given the current data, and the genetic similarity of these genomes with those found in viruses from Europe, that continent can be the origin of this specific viral lineage, probably circulating in Clinton and Beacon Falls (see map).
+### Uncertain sources and fates
+The newly sequenced virus Yale-020 is genetically related to viruses collected in Connecticut over the past weeks. These samples, all sequenced by our lab, were obtained from patients residents of the New Haven County and surrounding areas, but it is still uncertain if these five viruses are causing sustained local transmission chains. Given the current data, and the genetic similarity of these genomes with those found in viruses from Europe, an international origin of these viruses, followed by continued circulation in Clinton and Beacon Falls in a plausible scenario (see map).
 ![small CT clade](Picture3.png)
 
 
