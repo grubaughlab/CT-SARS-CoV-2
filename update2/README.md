@@ -1,5 +1,5 @@
 # Update 2 | 2020.04.07 - Yale SARS-CoV-2 Genome Surveillance Initiative
-This github repository shows preliminary results related to 13 new SARS-CoV-2 genomes (from CT[10] and NY[3]) from clinical samples collected between March 18-19, 2020. These samples were sequenced by [Joseph Fauver](https://twitter.com/JosephFauver) and and [Tara Alpert](https://twitter.com/tdalpert), using a MinION platform. Phylogenetic analysis and results interpretation were performed by [Anderson Brito](https://twitter.com/AndersonBrito_), using a nextstrain pipeline. The results reported here can be found in [this external link.](https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/update2)
+This github repository shows preliminary results related to 13 new SARS-CoV-2 genomes (from CT[10] and NY[3]) from clinical samples collected between March 18-19, 2020. These samples were sequenced by [Joseph Fauver](https://twitter.com/JosephFauver) and and [Tara Alpert](https://twitter.com/tdalpert), using a MinION platform. Phylogenetic analysis and results interpretation were performed by [Anderson Brito](https://twitter.com/AndersonBrito_), using a `nextstrain` pipeline. The results reported here can be found in [this external link.](https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/update2)
 
 
 ## Data
@@ -35,7 +35,7 @@ Altogether, the patterns we observe using genomic data and phylogenetic analysis
 
 ## Nextstrain
 
-The directory `auspice` contains a json file that was produced using the 'augur' visualization tool from the nextstrain pipeline. Our evolving results can be visualized online accessing the link below:
+The directory `auspice` contains a json file that was produced using the `augur` nextstrain pipeline. The results presented above can be visualized online by accessing the link below:
 
 * [Yale SARS-CoV-2 Genome Surveillance Initiative (Update 2)](https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/update2)
 
