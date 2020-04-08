@@ -23,15 +23,17 @@ The newly sequenced virus Yale-020 is genetically related to viruses collected i
 In another branch of the phylogenetic tree one can find four genomes sequenced by the Yale initiative (Yale-013, 047, 050), one of them sequenced in the last week (Yale-024). These genomes are grouped within a cluster of viruses likely originated from Western Europe, suggesting at least one introduction of this lineage in the United States at some point in February.
 ![European clade](Picture4.png)
 
-### Seeds of viral spread
+### Potential seeds of viral spread
 Finally, one of the genomes (Yale-012) groups together with other 12 sequenced by our team, which were found to group with genomes of viruses most likely introduced from Washington state (see Update 1). These CT samples were collected from patients residents of several distinct locations in Connecticut, such as the sourthern towns/cities of New Haven, West Haven, Greenwich, Woodbridge, and Stratford, as well as Bethlehem, Litchfield, and Berlin, in the northern part.
 ![WA clade](Picture5.png)
 
-Altogether, the patterns we observe with the genomic data gathered so far highlights that the virus causing COVID-19 is widely spread in Connecticut. Staying home, specially the elderly and people with underlying health conditions, is advisable to avoid exposure to the virus SARS-CoV-2.
+# The bottom line
+Altogether, the patterns we observe using genomic data and phylogenetic analysis highlight that the virus causing COVID-19 is probably widely spread in Connecticut, especially in the coastline area between Hartford and New York City. Staying home is an advisable action to avoid exposure to the virus SARS-CoV-2. This applies to young and adult populations (silent, assimptomatic viral spreaders), and especially for the elderly and people with underlying health conditions, those suffering severe burdens of COVID-19.
+![distribution](Picture6.png)
 
 ## Nextstrain
 
-The directory `auspice` contains a json that was produced using the 'augur' from the nextstrain pipeline. The results can be visualized using auspice, accessing the link below:
+The directory `auspice` contains a json file that was produced using the 'augur' visualization tool from the nextstrain pipeline. Our evolving results can be visualized online accessing the link below:
 
 * [Yale SARS-CoV-2 Genome Surveillance Initiative (Update 2)](https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/update2)
 
