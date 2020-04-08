@@ -19,7 +19,7 @@ Nine of the newly sequenced genomes in this update are found within a growing cl
 The newly sequenced virus Yale-020 is genetically related to viruses collected in Connecticut over the past weeks. These samples, all sequenced by our lab, were obtained from patients residents of the New Haven County and surrounding areas, but it is still uncertain if these five viruses are causing sustained local transmission chains. Given the current data, and the genetic similarity of these genomes with those found in viruses from Europe, an international origin of these viruses, followed by continued circulation in Clinton and Beacon Falls in a plausible scenario (see map).
 ![small CT clade](Picture3.png)
 
-### International introduction
+### International introductions
 In another branch of the phylogenetic tree one can find four genomes sequenced by the Yale initiative (Yale-013, 047, 050), one of them sequenced in the last week (Yale-024). These genomes are grouped within a cluster of viruses likely originated from Western Europe, suggesting at least one introduction of this lineage in the United States at some point in February.
 ![European clade](Picture4.png)
 
