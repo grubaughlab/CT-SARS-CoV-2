@@ -28,7 +28,7 @@ Finally, one of the genomes (Yale-012) groups together with other 12 sequenced b
 ![WA clade](Picture5.png)
 
 # The bottom line
-Altogether, the patterns we observe using genomic data and phylogenetic analysis highlight that the virus causing COVID-19 is probably widely spread in Connecticut, especially in the coastline area between Hartford and New York City. Staying home is an advisable action to avoid exposure to the virus SARS-CoV-2. This applies to young and adult populations (silent, assimptomatic viral spreaders), and especially for the elderly and people with underlying health conditions, those suffering severe burdens of COVID-19.
+Altogether, the patterns we observe using genomic data and phylogenetic analysis highlight that the virus causing COVID-19 is probably widely spread in Connecticut, especially in the coastline area between Hartford and New York City ([zoom in the map](https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/update2?f_update=Initial,Update01,Update02&m=div&p=grid&r=location)). Staying home is an advisable action to avoid exposure to the virus SARS-CoV-2. This applies to young and adult populations (silent, assimptomatic viral spreaders), and especially for the elderly and people with underlying health conditions, those suffering severe burdens of COVID-19.
 ![distribution](Picture6.png)
 
 ## Nextstrain
