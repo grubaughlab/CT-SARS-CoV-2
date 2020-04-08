@@ -32,7 +32,7 @@ Altogether, the patterns we observed using genomic data and phylogenetic analysi
 
 ![distribution](Picture6.png)
 
-## Nextstrain
+# See these results on Nextstrain
 
 The directory `auspice` contains a json file that was produced using the `augur` nextstrain pipeline. The results presented above can be visualized online by accessing the link below:
 
