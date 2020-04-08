@@ -8,7 +8,7 @@ The directories `consensus_genomes` and `metadata` in the [main page](https://gi
 
 *WARNING: These results should be considered as preliminary data*
 
-We added the new 13 SARS-COV-2 genomes with other 27 genomes we presented in the previous update, and collected other 267 genomes available on GISAID, from around the world, to uncover recent patterns of viral spread within and from Northeastern USA in the past weeks.
+We added the new 13 SARS-COV-2 genomes with other 27 genomes we presented in the [previous update](https://github.com/grubaughlab/CT-SARS-CoV-2/tree/master/update1), and collected other 267 genomes available on GISAID, from around the world, to uncover recent patterns of viral spread within and from Northeastern USA in the past weeks.
 ![big picture](Picture1.png)
 
 ### A growing cluster of viruses between Connecticut and New York State
@@ -24,7 +24,7 @@ In another branch of the phylogenetic tree one can find four genomes sequenced b
 ![European clade](Picture4.png)
 
 ### Potential seeds of viral spread
-Finally, one of the genomes (Yale-012) groups together with other 12 sequenced by our team, which were found to group with genomes of viruses most likely introduced from Washington state (see Update 1). These CT samples were collected from patients residents of several distinct locations in Connecticut, such as the sourthern towns/cities of New Haven, West Haven, Greenwich, Woodbridge, and Stratford, as well as Bethlehem, Litchfield, and Berlin, in the northern part.
+Finally, one of the genomes (Yale-012) groups together with other 12 sequenced by our team, which were found to group with genomes of viruses most likely introduced in a [coast-to-coast SARS-CoV-2 transmission](https://www.medrxiv.org/content/10.1101/2020.03.25.20043828v1) from the Washington state. These CT samples were collected from patients residents of several distinct locations in Connecticut, such as the sourthern towns/cities of New Haven, West Haven, Greenwich, Woodbridge, and Stratford, as well as Bethlehem, Litchfield, and Berlin, in the northern part.
 ![WA clade](Picture5.png)
 
 # The bottom line
