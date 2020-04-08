@@ -16,10 +16,16 @@ The directory `auspice` contains the json that was produced using augor from the
 * [Nextstrain visualization of SARS-CoV-2 genomes sequenced at Yale](https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/update1)
 
 ---
+## Weekly Updates
 
-## Update1: 2020.04.03 
+### Update1: 2020.April.03 
 
-The directory `update1` contains the data, interpretation, and visualization of 18 of our new SARS-CoV-2 genomes (out of 27 total).
+The directory [`update1`](https://github.com/grubaughlab/CT-SARS-CoV-2/tree/master/update1) contains the data, interpretation, and visualization of 18 new SARS-CoV-2 genomes (out of 27 sequenced until its date of release).
+
+### Update2: 2020.April.07 
+
+The directory [`update2`](https://github.com/grubaughlab/CT-SARS-CoV-2/tree/master/update2) contains the data, interpretation, and visualization of 13 new SARS-CoV-2 genomes (out of 40 sequenced until its date of release).
+
 
 ## Paper1: Coast-to-coast spread of SARS-CoV-2
 
