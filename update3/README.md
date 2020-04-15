@@ -12,7 +12,7 @@ The directories `consensus_genomes` and `metadata` in the [main page](https://gi
 We combined our new dataset of 30 SARS-COV-2 genomes with other 40 genomes shown by our team in the [Update 2](https://github.com/grubaughlab/CT-SARS-CoV-2/tree/master/update2). Figure 1 below shows where all genomes released by the Yale SARS-CoV-2 Genome Surveillance Initiative were collected. To perform preliminary analysis, we also collected other 410 genomes available on GISAID, from around the world and the US, to uncover recent patterns of viral spread within and from Northeastern USA in the past weeks. We thank the authors of the genomes in such complementary dataset: a list of authors is provided at the bottom of our dedicated [nextstrain page.](https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/update3?c=author)
 
 
-### The nomenclature of the virus SARS-CoV-2
+### The nomenclature system for SARS-CoV-2
 A nomenclature system for the main SARS-CoV-2 lineages was proposed by leading virologists and evolutionary biologists last April 8th (full description and rationale can be found [here](http://virological.org/t/a-dynamic-nomenclature-for-sars-cov-2-to-assist-genomic-epidemiology/458)). In our reports we will start to refer to viral lineages using such system. Viruses sequenced by our initiative are found in both major SARS-CoV-2 lineages: lineage A and B, which in turn are divided into nested sub-lineages. So far, in lineage A our viral genomes cluster within the lineage A1, and the sub-lineage A1.2. On lineage B, the biggest group among SARS-CoV-2, our sequenced genomes cluster within B1 (sub-lineages B1.3, B1.11) and B2 (see Figure 1).
 
 ![big picture](Figure1.png)
