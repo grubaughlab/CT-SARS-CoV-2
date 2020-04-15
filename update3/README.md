@@ -29,7 +29,7 @@ One of our newly sequenced genomes (Yale-055) groups with Yale-028 in lineage B2
 
 ![label](Figure3.png)
 
-### Lineage B1 is responsible by most outbreaks in NY and CT
+### Most of the sequences from outbreaks in NY and CT belong to lineage B1
 Most genomes from NY state belong to sub-lineages of B1. Among the 30 genomes from CT sequenced and included in this update, 24 cluster in this lineage, and were collected between March 11th and April 8th. The lineage B1 was most likely introduced in Northeastern US from Western Europe in multiple events. Genomes from NY and CT and closely related (see Figure 4) and, as shown in our [previous update](https://github.com/grubaughlab/CT-SARS-CoV-2/tree/master/update2), this pattern suggests that constant introductions of viruses are taking place from New York into Connecticut, as the data released by Aguero-Rosenfeld et al, and Gonzalez-Reiche et al also suggest ([see here](https://nextstrain.org/community/grubaughlab/CT-SARS-CoV-2/update3?f_author=Ana%20Gonzalez-Reiche%20et%20al,Fauver%20et%20al,Maria%20Aguero-Rosenfeld%20et%20al&label=clade:B.1)).
 
 ![label](Figure4.png)
