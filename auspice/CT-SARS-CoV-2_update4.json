@@ -1,6 +1,6 @@
 {
   "meta": {
-    "build_url": "https://github.com/grubaughlab/CT-SARS-CoV-2 (Update 4)",
+    "build_url": "https://github.com/grubaughlab/CT-SARS-CoV-2",
     "colorings": [
       {
         "key": "clade_membership",
@@ -1413,7 +1413,7 @@
       "map",
       "entropy"
     ],
-    "title": "Yale SARS-CoV-2 Genome Surveillance Initiative",
+    "title": "Yale SARS-CoV-2 Genome Surveillance Initiative (Update 4)",
     "updated": "2020-04-22"
   },
   "tree": {
