@@ -5964,8 +5964,7 @@
                   {
                     "branch_attrs": {
                       "labels": {
-                        "aa": "M: H125Y; ORF1a: P2287S, S3099L; ORF3a: T14I",
-                        "clade": "B.1.6"
+                        "aa": "M: H125Y; ORF1a: P2287S, S3099L; ORF3a: T14I"
                       },
                       "mutations": {
                         "M": [
@@ -5992,9 +5991,6 @@
                       "author": {
                         "author": "S. Wesley Long et al",
                         "value": "S. Wesley Long et al"
-                      },
-                      "clade_membership": {
-                        "value": "B.1.6"
                       },
                       "country": {
                         "confidence": {
