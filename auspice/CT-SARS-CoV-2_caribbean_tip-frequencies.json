@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 {
   "Angola/CERI-KRISP-K013408/2021": {
     "frequencies": [
@@ -190154,3 +190155,8 @@
     2021.5657
   ]
 }
+=======
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fa26ba94f8a00cb10805026830e17a0c1e4dd74bcf5cc6d37f1c1e08a07d501
+size 2264679
+>>>>>>> Stashed changes
