@@ -5,3 +5,4 @@ auspice/CT-SARS-CoV-2_connecticut22.json filter=lfs diff=lfs merge=lfs -text
 auspice/CT-SARS-CoV-2_connecticut22_tip-frequencies.json filter=lfs diff=lfs merge=lfs -text
 auspice/CT-SARS-CoV-2_connecticut.json filter=lfs diff=lfs merge=lfs -text
 auspice/CT-SARS-CoV-2_connecticut24.json filter=lfs diff=lfs merge=lfs -text
+auspice/CT-SARS-CoV-2_connecticut25.json filter=lfs diff=lfs merge=lfs -text
